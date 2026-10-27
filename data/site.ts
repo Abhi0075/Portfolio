@@ -5,10 +5,9 @@ export const siteConfig = {
   role: "Software Engineer",
   focusLabel: "Backend-focused software engineer",
   employer: "Deloitte India",
-  // TODO: replace with the real production URL after the first Vercel deploy
-  // (e.g. "https://your-project.vercel.app" or a custom domain). Used for
-  // canonical URLs, sitemap.xml, robots.txt and Open Graph metadata.
-  url: "https://portfolio.example.com",
+  // Production URL on Vercel. Used for canonical URLs, sitemap.xml,
+  // robots.txt and Open Graph metadata. Update if a custom domain is added.
+  url: "https://portfolio-abhisheka.vercel.app",
   title: "Abhishek A. — Software Engineer",
   description:
     "Backend-focused software engineer at Deloitte India building reliable APIs, data systems, and cloud services with TypeScript, Node.js, and AWS.",
